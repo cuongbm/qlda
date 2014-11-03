@@ -6,5 +6,9 @@
 		<div>
 			Student grid
 		</div>
+
+		<div>
+			Student grid
+		</div>
 	</body>
 </html>
